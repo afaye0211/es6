@@ -1,0 +1,1 @@
+console.log("Hello Wordld! (from Webpack) abc");
